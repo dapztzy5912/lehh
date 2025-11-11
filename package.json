@@ -1,0 +1,14 @@
+{
+  "name": "simple-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.4.0",
+    "qrcode-terminal": "0.12.0"
+  }
+}
